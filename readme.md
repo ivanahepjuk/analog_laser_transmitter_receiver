@@ -6,7 +6,7 @@ Laser transmitter and receiver, version 2.0
 This schematics and PCB was designed and created by me and I am ok with using this resources for your own educational purposes.
 If you decide to build it and use it in public, you can use my credentials as a resource, of course,)
 
-Created August 2016 by Pavel Polach aka ivanahepjuk@gmail.com
+Created August 2016 ivanahepjuk@gmail.com
 
 DATA:
 
